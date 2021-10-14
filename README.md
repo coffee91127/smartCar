@@ -28,6 +28,6 @@ lower portion: driver’s vision field has been improved after turning on the ap
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
 Figure 6. Driver performing the nighttime contrast enhancement application where the
-driver’svision field is increased. Upper and lower portions represent the driver’s vision field
+driver’s vision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
