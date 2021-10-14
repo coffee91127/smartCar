@@ -29,5 +29,6 @@ lower portion: driver’s vision field has been improved after turning on the ap
 
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’s vision field is increased. Upper and lower portions represent the driver’s vision field
-before and after using the application.
+before and after using the application.  O_O
+
 
